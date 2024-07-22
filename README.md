@@ -68,3 +68,4 @@ python traffic.py data_directory [model.h5]
 
 A successul run of this python script should see command line output as such:
 
+<img width="977" alt="Scuccess" src="https://github.com/user-attachments/assets/ac8cbdbc-8850-4345-9ffe-643f088b574b">
